@@ -1,0 +1,9 @@
+E:/IC_Contest_Training/2016_LBP/Code_V1/testfixture.v {1 {vlog -work work -vopt -stats=none E:/IC_Contest_Training/2016_LBP/Code_V1/testfixture.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module testfixture
+-- Compiling module lbp_mem
+
+Top level modules:
+	testfixture
+
+} {} {}}

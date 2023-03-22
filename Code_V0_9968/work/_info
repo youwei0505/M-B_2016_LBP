@@ -1,0 +1,66 @@
+m255
+K3
+z0
+13
+cModel Technology
+dE:\IC_Contest_Training\2018_LCD_CTRL_univ_cell\code
+vLBP
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 d5d5jInMaD3`MJ<fGBF^V2
+I9gTLHDKl0QNkh`i5VBE^H1
+Z1 dE:/IC_Contest_Training/2016_LBP/Code_V1
+w1647952931
+8E:/IC_Contest_Training/2016_LBP/Code_V1/LBP.v
+FE:/IC_Contest_Training/2016_LBP/Code_V1/LBP.v
+L0 3
+Z2 OL;L;10.4;61
+!s108 1648015866.473000
+!s107 E:/IC_Contest_Training/2016_LBP/Code_V1/LBP.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/IC_Contest_Training/2016_LBP/Code_V1/LBP.v|
+!i113 0
+Z3 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@l@b@p
+vlbp_mem
+Z4 !s110 1648018679
+!i10b 1
+!s100 hzn;9L7_jdf`C?WKg?;el3
+IQVG^0UBC:j]1^1Tf@ee4K1
+R0
+R1
+Z5 w1647325685
+Z6 8E:/IC_Contest_Training/2016_LBP/Code_V1/testfixture.v
+Z7 FE:/IC_Contest_Training/2016_LBP/Code_V1/testfixture.v
+L0 134
+R2
+r1
+!s85 0
+31
+Z8 !s108 1648018679.414000
+Z9 !s107 E:/IC_Contest_Training/2016_LBP/Code_V1/testfixture.v|
+Z10 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/IC_Contest_Training/2016_LBP/Code_V1/testfixture.v|
+!i113 0
+R3
+vtestfixture
+R4
+!i10b 1
+!s100 dh>K@1@jcAgEo4WbeU=oS3
+IG>9hdR`cm>V]`4=P;a8fi2
+R0
+R1
+R5
+R6
+R7
+L0 10
+R2
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R3
